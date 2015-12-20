@@ -1,2 +1,5 @@
+i386-unknown-elf/
+x86_64-unknown-elf/
+crosstool-ng/
 *.o
 *.elf
